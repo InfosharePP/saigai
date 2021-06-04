@@ -45,25 +45,25 @@ COVID-19の世界的流行や集中豪雨や台風による激甚災害の頻発
 
  
 **各種マスタの記録・登録 <災害の定義>**
-![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/05/1_災害の定義.png)
+![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/06/1_災害の定義.png)
 
 **各種マスタの記録・登録 <施設情報>**
-![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/05/2_施設情報.png)
+![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/06/2_施設情報.png)
 
 **各種マスタの記録・登録 <市民提供情報>**
-![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/05/3_市民提供情報.png)
+![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/06/3_市民提供情報.png)
 
 **各種マスタの記録・登録 <対応状況>**
-![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/05/4_対応状況.png)
+![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/06/4_対応状況.png)
 
 **各種マスタの記録・登録 <対応状況のパソコンからの記録>**
-![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/05/5_対応状況_記録PC.png)
+![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/06/5_対応状況_記録PC.png)
 
 **各種マスタの記録・登録 <対応状況のスマートフォンからの記録>**
 ![災害の定義](https://infoshare.co.jp/wp-content/uploads/2021/05/6_対応状況_記録SP.png)
 
 **全体レポートの閲覧**
-![災害サマリー](https://infoshare.co.jp/wp-content/uploads/2021/05/7_災害サマリー.png)
+![災害サマリー](https://infoshare.co.jp/wp-content/uploads/2021/06/7_災害サマリー.png)
 
 **安否確認の報告および閲覧**
 ![安否確認の報告および閲覧](https://infoshare.co.jp/wp-content/uploads/2021/05/5_安否確認の報告・閲覧.png)
