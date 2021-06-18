@@ -71,7 +71,7 @@ COVID-19の世界的流行や集中豪雨や台風による激甚災害の頻発
 
 ## ダウンロード
 以下のリンクより最新版バージョンをダウンロードいただけます。  
-    [最新のリリースページへ移動](https://github.com/InfosharePP/saigi/releases/)
+    [最新のリリースページへ移動](https://github.com/InfosharePP/saigai/releases/)
 
 
 ## 展開方法
