@@ -2,7 +2,7 @@
 (Disaster Countermeasures for Microsoft Dataverse environment, built by Infoshare Inc.)
 
 <p align="center">	
-	
+<img alt="download" src="https://img.shields.io/github/downloads/InfosharePP/saigai/total?color=brightgreen.svg"/>	
 </p>
 
 ## はじめに
